@@ -56,6 +56,6 @@
         android:layout_margin="40dp"
         android:background="@drawable/rounded_button"
         android:text="Log in"
-        android:textColor="#FFFF"/>
+        android:textColor="#0000"/>
 
 </LinearLayout>
